@@ -1,2 +1,2 @@
-first file in Git repo
+edited file in Git repo by third-track
 edit to check if git tracks this change
